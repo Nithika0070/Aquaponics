@@ -1,1 +1,4 @@
 # Aquaponics
+Aquaponics is a form of agriculture that combines raising fish in tanks (recirculating aquaculture) with soilless plant culture (hydroponics). In aquaponics, the nutrient-rich water from raising fish provides a natural fertilizer for the plants and the plants help to purify the water for the fish.Monitoring and maintaining optimal water quality parameters such as dissolved oxygen levels, water depth, and nutrient circulation in aquaponics systems presents several challenges. Traditional methods rely on regular manual inspections and adjustments, which are time-consuming, labor-intensive, and prone to human error. Without continuous monitoring, imbalances in water quality may go unnoticed, leading to potential ecosystem harm, reduced productivity, and compromised sustainability within the aquaponics system.
+
+
